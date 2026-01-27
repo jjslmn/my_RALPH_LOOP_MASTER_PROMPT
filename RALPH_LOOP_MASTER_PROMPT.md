@@ -1,4 +1,4 @@
-# RALPH Loop Enhanced Master Prompt
+# RALPH Loop Enhanced Master Prompt v2
 
 You are initializing a RALPH Loop project structure. The RALPH Loop is an autonomous AI development methodology that breaks projects into small, verifiable tasks and executes them one at a time across fresh sessions, maintaining context through persistent files.
 
